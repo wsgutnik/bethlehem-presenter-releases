@@ -1,0 +1,15 @@
+{
+  "version": "0.26.0",
+  "notes": "v0.26.0\n- Estatísticas de uso anônimas: o app envia uma vez por dia a versão, o sistema, a congregação e contagens de uso (cultos, minutos ao vivo, slides por tipo, telas, importações). Nunca envia letras, textos, nomes, arquivos ou endereço IP.\n- Para ver exatamente o que é enviado, ou desligar: Ajustes › Estatísticas de uso.\n- Agora sabemos quantas vezes cada versão foi baixada: os instaladores ficam na página de Releases do GitHub.\n- Windows: instalador de teste disponível na mesma página (ainda sem atualização automática; baixe cada nova versão por lá).\n- Importações de PowerPoint e Keynote passam a contar nas estatísticas.",
+  "pub_date": "2026-10-02T19:27:23Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS3YyZEZvWW1jYzltcWNnaWQ3Y2dKZHkxbGIyaXp2WkJlZHJnZW84cnRyMHVXSk1yY0lhQnlBZDF1OTduQlVBcjdQQm16ZVBqVU15b0tjd1pubWRaVmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTY5MjQxCWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4yNi4wCmJHdmU3WmpNUjlWWnJxZ3VNb0JLdmxEamZtNUljbytOUFFxbFRRZ0E2Ti9IWVFDZzAyenZCV3luWUo1Y1g0M2RubkFDYXppOGhYZVhKcTlmZzhnSUFnPT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.26.0/Bethlehem-Presenter_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS3YyZEZvWW1jYzltcWNnaWQ3Y2dKZHkxbGIyaXp2WkJlZHJnZW84cnRyMHVXSk1yY0lhQnlBZDF1OTduQlVBcjdQQm16ZVBqVU15b0tjd1pubWRaVmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTY5MjQxCWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4yNi4wCmJHdmU3WmpNUjlWWnJxZ3VNb0JLdmxEamZtNUljbytOUFFxbFRRZ0E2Ti9IWVFDZzAyenZCV3luWUo1Y1g0M2RubkFDYXppOGhYZVhKcTlmZzhnSUFnPT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.26.0/Bethlehem-Presenter_universal.app.tar.gz"
+    }
+  }
+}
