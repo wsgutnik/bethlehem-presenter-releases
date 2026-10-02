@@ -1,0 +1,1 @@
+Bethlehem Presenter v0.26.0
