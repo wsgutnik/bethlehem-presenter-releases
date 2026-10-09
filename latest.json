@@ -1,0 +1,15 @@
+{
+  "version": "0.28.0",
+  "notes": "Novidades\n- Companion no celular: nova aba Telão mostra o que está no telão. O versículo aparece na Bíblia do idioma da pessoa e os slides de texto são traduzidos.\n- Tradução mais rápida e econômica: vários idiomas ao mesmo tempo; só a fala vai para a transcrição (o louvor não é transcrito). Novo diagnóstico em Ajustes › Companion.\n- QR no telão com um botão em Live › Saídas.\n- Transição entre slides ajustável (Corte, 150 ms a 1 s) em Live › Saídas.\n- Botão direito e menu do sistema em itens, slides, Biblioteca, camadas e saídas. Ativar/desativar e renomear sem abrir o editor.\n- Saída por cima da tela de trabalho: botão X para tirar a saída do caminho e atalho de pânico (Cmd+Opção+Shift+W no Mac, Ctrl+Alt+Shift+W no Windows).\n- Layouts nomeados e Travar no ao vivo, para ninguém mexer nos painéis durante o culto.\n- Área de trabalho em dock (experimental, desligada por padrão) no Live, no Construtor e no Editor, e janela separada só de leitura para o roteiro e os monitores. Ligue em Ajustes › Área de trabalho; se algo falhar, o app volta sozinho ao modo clássico.\nNos conte como ficou, principalmente no Windows: Ajustes › Área de trabalho tem um diagnóstico para copiar.",
+  "pub_date": "2026-10-09T23:41:59Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS2pnamlaTWZ4SGZxKzIrOTJVdHN0Zlg3TFFYTjc2b0xHcWZlRE9DdTY2Qy93YmZBbGw2L0NQNTNkdzJ5UWNlVzNOd2hEalUvUThKVWdjSmVOUlBzRXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTg5MzE2CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4yOC4wCnl6Sk44bFFpMHUydFZHaXNEZ1AzODhONmVURnBPMVRGZ29YRGtBS0pVNVdUdWZtVkdzaUpxM2NMVW0vMnVxTktWTDNiT3lwMnQzSlZZNDlhWTJoQURBPT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.28.0/Bethlehem-Presenter_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS2pnamlaTWZ4SGZxKzIrOTJVdHN0Zlg3TFFYTjc2b0xHcWZlRE9DdTY2Qy93YmZBbGw2L0NQNTNkdzJ5UWNlVzNOd2hEalUvUThKVWdjSmVOUlBzRXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTg5MzE2CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4yOC4wCnl6Sk44bFFpMHUydFZHaXNEZ1AzODhONmVURnBPMVRGZ29YRGtBS0pVNVdUdWZtVkdzaUpxM2NMVW0vMnVxTktWTDNiT3lwMnQzSlZZNDlhWTJoQURBPT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.28.0/Bethlehem-Presenter_universal.app.tar.gz"
+    }
+  }
+}
