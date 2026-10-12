@@ -1,0 +1,15 @@
+{
+  "version": "0.28.1",
+  "notes": "Desempenho no Diagnóstico: mostra a memória do Mac, travadas do programa, engasgos de vídeo e quais vídeos são pesados demais (acima de 1080p ou 30 Mbps). O monitor Programa fica mais leve em Macs com pouca memória ou com vídeos acima de 1080p: mostra uma imagem do vídeo e a saída continua tocando normalmente. Miniaturas de vídeo da biblioteca só carregam quando aparecem na tela. Esta versão substitui a 0.27.7 (numeração corrigida) e contém tudo da 0.28.0.",
+  "pub_date": "2026-10-12T02:29:40Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS3JEek9wNHNaWkdPUlJWR3ZieGwwVHNkM3R4KzhUT2EyNlpCVlNudTVtbWhZU2Z0U1VLSzYzRy9uQVNBRlJRS1dsYnRqM3A0MUR2NUdCbWRyb1AzVkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzcyMTc4CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4yOC4xCjQ4YUdMTGwvdUNObWJQeDlXQXRkNnZhdTUrOUhMV0JhRDQ3Yk1aWWxoZGIvbjkzTHdqUXpzb3JDVjk4Tmc3Mm1MVjY5OENDUVpvTlR0RlhmRkgxNkR3PT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.28.1/Bethlehem-Presenter_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS3JEek9wNHNaWkdPUlJWR3ZieGwwVHNkM3R4KzhUT2EyNlpCVlNudTVtbWhZU2Z0U1VLSzYzRy9uQVNBRlJRS1dsYnRqM3A0MUR2NUdCbWRyb1AzVkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzcyMTc4CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4yOC4xCjQ4YUdMTGwvdUNObWJQeDlXQXRkNnZhdTUrOUhMV0JhRDQ3Yk1aWWxoZGIvbjkzTHdqUXpzb3JDVjk4Tmc3Mm1MVjY5OENDUVpvTlR0RlhmRkgxNkR3PT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.28.1/Bethlehem-Presenter_universal.app.tar.gz"
+    }
+  }
+}
