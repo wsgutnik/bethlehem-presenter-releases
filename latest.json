@@ -1,0 +1,15 @@
+{
+  "version": "0.28.4",
+  "notes": "Tradução ao vivo mais rápida: o app agora pede ao modelo de tradução respostas curtas (sem \"pensar\" demais), o que deve reduzir os atrasos de 3 a 5 segundos. Funciona com qualquer modelo da OpenRouter; se algum modelo recusar, o app tenta do jeito antigo. Inclui o Gemma 4 como padrão e os avisos de codec de vídeo. Ainda não medido no Mac M1 da igreja nem no Windows.",
+  "pub_date": "2026-10-28T07:30:02Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS2h4QzQ3ZW9kVFE5SDdwN2xlWlVUNG5LUytmcVJNVWpSV203bzBvWHpodlNyV1ExRnV6dU9HdjRNdVFKcFNmbVNVY1htMEQzTGJGbzlQQXdZUnAwTkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTcyNTk5CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4yOC40ClZmeVBGNmxjbXoweDNPaGFSMmYyQzhqV3NyRE1maTVyQnZrRm9ZNHlnRzJ4MkpmcGpGcEZEdEphZC90ZXpUeGJLSHpkZ2dQWXdmT0dpRy9uOS9LcUNRPT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.28.4/Bethlehem-Presenter_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS2h4QzQ3ZW9kVFE5SDdwN2xlWlVUNG5LUytmcVJNVWpSV203bzBvWHpodlNyV1ExRnV6dU9HdjRNdVFKcFNmbVNVY1htMEQzTGJGbzlQQXdZUnAwTkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTcyNTk5CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4yOC40ClZmeVBGNmxjbXoweDNPaGFSMmYyQzhqV3NyRE1maTVyQnZrRm9ZNHlnRzJ4MkpmcGpGcEZEdEphZC90ZXpUeGJLSHpkZ2dQWXdmT0dpRy9uOS9LcUNRPT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.28.4/Bethlehem-Presenter_universal.app.tar.gz"
+    }
+  }
+}
