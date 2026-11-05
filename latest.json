@@ -1,0 +1,15 @@
+{
+  "version": "0.29.0",
+  "notes": "Ao Vivo mais seguro: a tecla Esc não limpa mais a tela (use F1 ou o botão Tudo) e as teclas que tiram algo das telas aparecem em vermelho. Se uma saída cair, o aviso aparece no monitor do Programa e acima do TAKE, dizendo o que fazer. Topo reorganizado: Ao Vivo em destaque e o menu Configurar com Telas, Fontes, Ajustes e Púlpito. Cores mais claras: azul só para o Preview e BLACK com contorno próprio. Em notebooks de 13\", Preview e Programa cabem inteiros acima do TAKE. Novo em Ajustes: a interface também pode ser usada em inglês (Início, Culto, Ao Vivo e saídas; as demais telas seguem em português).",
+  "pub_date": "2026-11-05T21:49:09Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS3FZNUdCOEZTOCt1WDl4TTVpSTZ5LzlrYTNUVXJhUmlKS3ZaeFkwWHloWDRTc3JOSXpaYjVCTjFEQUFrSGlFY1lueWxwL0xqRkZJNFJhQnVRS0NheVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTE1MzQ1CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4yOS4wCmtRbnI5MTVWNGdmT2pieEVKS0xiRThOanFpRmhqNkJnbWtRR0FLS0hsWW9HaEZLNGJZcTRyd21pS1c5UTBIU3hscjhxNk13T1FvNXBVbjBQaXNubUFBPT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.29.0/Bethlehem-Presenter_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS3FZNUdCOEZTOCt1WDl4TTVpSTZ5LzlrYTNUVXJhUmlKS3ZaeFkwWHloWDRTc3JOSXpaYjVCTjFEQUFrSGlFY1lueWxwL0xqRkZJNFJhQnVRS0NheVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTE1MzQ1CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4yOS4wCmtRbnI5MTVWNGdmT2pieEVKS0xiRThOanFpRmhqNkJnbWtRR0FLS0hsWW9HaEZLNGJZcTRyd21pS1c5UTBIU3hscjhxNk13T1FvNXBVbjBQaXNubUFBPT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.29.0/Bethlehem-Presenter_universal.app.tar.gz"
+    }
+  }
+}
