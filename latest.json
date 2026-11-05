@@ -10,6 +10,10 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS3FZNUdCOEZTOCt1WDl4TTVpSTZ5LzlrYTNUVXJhUmlKS3ZaeFkwWHloWDRTc3JOSXpaYjVCTjFEQUFrSGlFY1lueWxwL0xqRkZJNFJhQnVRS0NheVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTE1MzQ1CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4yOS4wCmtRbnI5MTVWNGdmT2pieEVKS0xiRThOanFpRmhqNkJnbWtRR0FLS0hsWW9HaEZLNGJZcTRyd21pS1c5UTBIU3hscjhxNk13T1FvNXBVbjBQaXNubUFBPT0K",
       "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.29.0/Bethlehem-Presenter_universal.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS2dDNk0reFNNZW1IRTBvK0hFUG16TFJoM25EYzhlMDB6aGpDSTdURHY3QkRReTZIWDRxMjlDeWZNdVdCS2VOM0xPUG54WnhVMFNTR3VFVmMrRTB6ZlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTE2MTE2CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlcl8wLjI5LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMjkuMApCbWFxZnp2ejQyNlFSQmhBc0VyVkdXeWdDeHR5RTQxTSt5eFdlMEpubVVUYnFDOVJlWlBHYTNBT0VqVGlxMlpxS3o4b0xpS1hDRGpvQmRWdkhPNWhEQT09Cg==",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.29.0/Bethlehem-Presenter_x64-setup.exe"
     }
   }
 }
