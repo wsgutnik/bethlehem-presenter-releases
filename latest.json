@@ -1,0 +1,15 @@
+{
+  "version": "0.30.0",
+  "notes": "Novidades da 0.30.0\n\n• Fala do púlpito mais rápida no celular. Em Mac com Apple silicon (M1 ou mais novo) e macOS 26 ou mais novo, há um novo motor de transcrição em Ajustes › Companion: \"Neste Mac\". A frase aparece no celular enquanto é falada e é traduzida quando termina. O áudio não sai do computador e não é preciso instalar o Whisper. Idioma do púlpito fixo: português, inglês, espanhol, francês, alemão ou italiano. Em Mac Intel, macOS mais antigo e Windows nada muda.\n• Chave da OpenRouter num lugar só: nova seção em Ajustes › Companion para salvar, trocar ou remover a chave.\n• Voz na nuvem mais estável: se o serviço recusar um pedido, o app espera 10 segundos antes de tentar de novo e o celular usa a voz do próprio aparelho. A mensagem de erro diz se o problema é o nome da voz ou o modelo. Voz padrão da OpenRouter: Kokoro (am_onyx).\n• Diagnóstico da fala mostra quantas frases foram reconhecidas.\n\nFaçam um ensaio antes do culto: o novo motor foi testado com microfone e celular, mas ainda não num culto inteiro.",
+  "pub_date": "2026-11-23T23:52:42Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS3RJNU85WVNhUGdDT1JtQjYvRXRVY0puM0czbkJrWk5Ta2N4aXlPNzF0anhLVVVWd2NjandRZXN5M2xKQlVFSjFMaTc3L0RZTWZ4MkpuRm1xVE5RZ2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc3OTU5CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4zMC4wCjNHR0JVOUxrZW5jUElHcTJ4N3RTTjJlSFRKNk1vcjlvVnYrKy9XQTRGMjJEQ0kyTDZmK1lualhIU2haNGx3YUVmSjg0OFhpN0JEOHZKeGFFRW9nOURRPT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.30.0/Bethlehem-Presenter_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSzRVV0hZN2ZxS3RJNU85WVNhUGdDT1JtQjYvRXRVY0puM0czbkJrWk5Ta2N4aXlPNzF0anhLVVVWd2NjandRZXN5M2xKQlVFSjFMaTc3L0RZTWZ4MkpuRm1xVE5RZ2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc3OTU5CWZpbGU6QmV0aGxlaGVtIFByZXNlbnRlci5hcHAudGFyLmd6CXZlcnNpb246MC4zMC4wCjNHR0JVOUxrZW5jUElHcTJ4N3RTTjJlSFRKNk1vcjlvVnYrKy9XQTRGMjJEQ0kyTDZmK1lualhIU2haNGx3YUVmSjg0OFhpN0JEOHZKeGFFRW9nOURRPT0K",
+      "url": "https://github.com/wsgutnik/bethlehem-presenter-releases/releases/download/v0.30.0/Bethlehem-Presenter_universal.app.tar.gz"
+    }
+  }
+}
